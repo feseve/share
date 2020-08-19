@@ -1,3 +1,19 @@
 .title{
    color: #02ccba;
+   font-family: cursive;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  border: 5px solid red;
+
+}
+li{
+  float: left;
+  padding: 10px 10px;
+  flex: auto;
+  width: 30%;
+
+
 }
